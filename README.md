@@ -1,3 +1,4 @@
 ﻿# projetosTypescript
-Projeto Basico de API Utilizando Node e Prism com a linguagem TypeScript
+Projeto Basico de API Utilizando Nodeexpress e Prism com a linguagem TypeScript
+
 
